@@ -1,2 +1,2 @@
-/TestDependency/bin/**/*
+TestDependency/bin/**/*
 TestDependency/test-results
